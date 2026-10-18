@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-13 – Work session](#2026-10-13-work-session)
-2. [2026-10-16 – Today I worked on the CAD enclosure but also spent a while fixing up a few things on the PCB. First of all, while making the CAD, I noticed that the PCB had the wrong dimension so I went back and fixe](#2026-10-16-today-i-worked-on-the-cad-enclosure-but-also-spen)
+2. [2026-10-16 – # CAD Enclosure + PCB Dimensions](#2026-10-16-cad-enclosure-pcb-dimensions)
 3. [2026-10-17 – # Enclosure progress + Mounting Holes Addition](#2026-10-17-enclosure-progress-mounting-holes-addition)
 
 ## Design
@@ -28,9 +28,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/288b2228-40e5-47f2-b587-afdb62ede677/video.mp4)
 
-### 2026-10-16 – Today I worked on the CAD enclosure but also spent a while fixing up a few things on the PCB. First of all, while making the CAD, I noticed that the PCB had the wrong dimension so I went back and fixe
+### 2026-10-16 – # CAD Enclosure + PCB Dimensions
 
 **2.93h**
+
+# CAD Enclosure + PCB Dimensions
 
 Today I worked on the CAD enclosure but also spent a while fixing up a few things on the PCB. First of all, while making the CAD, I noticed that the PCB had the wrong dimension so I went back and fixed it, also having to reroute everything. Also, I added 2 decoupling capacitors since I heard they were recommended in the type of setup I have, especially for the 5V line for the speaker amplifier.
 
