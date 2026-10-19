@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv5cwgsq0i2601n0654q862u). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A 3D model of an enclosure for the Smart Desk Hub PCB I designed in week 1.
+> This project is an enclosure for the Smart Desk Hub PCB that I designed for week 1 of Hack Club's Half Life.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
